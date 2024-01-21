@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexandr
+- 👀 I’m interested in programming at Golang
+- 🌱 I’m currently learning Golang
+- 📫 You can write me on av.kharin@gmail.com 
